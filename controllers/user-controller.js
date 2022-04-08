@@ -60,9 +60,9 @@ const usersController = {
 
     // Deletes a friend by id /api/users/:userId/friends/:friendId
     deleteFriend({ params, body }, res) {
-        User.findOneAndDelete({ _id: params.userId },
+        User.findOneAndUpdate({ _id: params.userId },
             {
-                $pull: { friends: { _id: params.friendId } }
+                $pull: { friends: params.friendId }
             })
             .then(dbUserData => {
                 if (!dbUserData) {

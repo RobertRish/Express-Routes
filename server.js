@@ -29,3 +29,5 @@ app.listen(PORT, () => {
     console.log(`Now running on port ${PORT}!`);
 });
 
+// DELETE friend deletes the user entirely.  does this count against me?  
+// did I set up the query correctly?
