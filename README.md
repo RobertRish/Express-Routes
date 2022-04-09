@@ -1,5 +1,8 @@
 # Social-Network-API
 
+## Starting the server
+https://youtu.be/4E-WmVpwwiY
+
 ## User routes
 https://youtu.be/iW2pyABtxL4
 
