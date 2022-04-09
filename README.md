@@ -1,5 +1,8 @@
 # Social-Network-API
 
+## Description
+The backend for a social media website
+
 ## Starting the server
 https://youtu.be/4E-WmVpwwiY
 
