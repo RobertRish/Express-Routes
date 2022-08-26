@@ -1,7 +1,7 @@
 # Social-Network-API
 
 ## Description
-Backend for a social media website (built using Node and Express). Videos linked in the README show CRUD routes being tested in Insomnia.
+Backend for a social media website. Videos linked in the README show CRUD routes being tested in Insomnia.
 
 ## Technologies Used
 NoSQL, Node, Express, Insomnia
